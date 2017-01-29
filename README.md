@@ -15,3 +15,10 @@ classify questions which don't post in github.
 
 463.Island Perimeter
 
+448.Find All Numbers Disappeared in an Array
+
+492.Construct the Rectangle
+
+###Bitwise Operation
+
+136.Single Number
