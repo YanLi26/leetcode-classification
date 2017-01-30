@@ -19,6 +19,8 @@ classify questions which don't post in github.
 
 492.Construct the Rectangle
 
+389.Find the Difference
+
 ###Bitwise Operation
 
 136.Single Number
