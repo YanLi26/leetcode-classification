@@ -21,6 +21,12 @@ classify questions which don't post in github.
 
 389.Find the Difference
 
+167.Two Sum II - Input array is sorted
+
+283.Move Zeroes
+
+455.Assign Cookies
+
 ###Bitwise Operation
 
 136.Single Number
