@@ -37,7 +37,7 @@ classify questions which don't post in github.
 
 387.First Unique Character in a String
 
-
+171.Excel Sheet Column Number
 
 ###Bitwise Operation
 
