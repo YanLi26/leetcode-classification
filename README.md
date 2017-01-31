@@ -27,6 +27,18 @@ classify questions which don't post in github.
 
 455.Assign Cookies
 
+453.Minimum Moves to Equal Array Elements
+
+383.Ransom Note
+
+349.Intersection of Two Arrays
+
+122.Best Time to Buy and Sell Stock II
+
+387.First Unique Character in a String
+
+
+
 ###Bitwise Operation
 
 136.Single Number
