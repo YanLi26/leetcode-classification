@@ -39,6 +39,16 @@ classify questions which don't post in github.
 
 171.Excel Sheet Column Number
 
+242.Valid Anagram
+
+169.Majority Element
+
+409.Longest Palindrome
+
+217.Contains Duplicate
+
+
+
 ###Bitwise Operation
 
 136.Single Number

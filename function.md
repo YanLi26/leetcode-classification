@@ -20,3 +20,15 @@ swap ( T& a, T& b );
 ##sqrt
 
 sqrt(x);
+
+#\#include \<unordered_map>
+
+```C++
+unordered_map<char,int> pali;
+for(char a: s) ++pali[a];
+for(unordered_map<char, int>::iterator it = pali.begin(); it != pali.end(); it++){
+	res += it -> second/2*2;
+	(it -> second %2 == 1) flag = 1;
+}
+```
+
