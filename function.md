@@ -32,3 +32,11 @@ for(unordered_map<char, int>::iterator it = pali.begin(); it != pali.end(); it++
 }
 ```
 
+#\#include \<bitset>
+
+```	C++
+bitset<16> foo;
+bitset<16> bar (0xfa2);
+foo.count();
+```
+

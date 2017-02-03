@@ -47,6 +47,8 @@ classify questions which don't post in github.
 
 217.Contains Duplicate
 
+350.Intersection of Two Arrays II
+
 
 
 ###Bitwise Operation
