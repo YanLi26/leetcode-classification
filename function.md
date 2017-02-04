@@ -15,11 +15,19 @@ swap ( T& a, T& b );
 
 {a = a ^ b; b = a ^ b; a = a ^ b;}
 
+##reverse
+
+reverse(m.begin(), m.end());
+
 #\#include \<cmath\>
 
 ##sqrt
 
 sqrt(x);
+
+##power
+
+pow(a, b); //a^b
 
 #\#include \<unordered_map>
 
@@ -30,6 +38,8 @@ for(unordered_map<char, int>::iterator it = pali.begin(); it != pali.end(); it++
 	res += it -> second/2*2;
 	(it -> second %2 == 1) flag = 1;
 }
+
+for(auto it = tmp.begin(); it != tmp.end(); it++)
 ```
 
 #\#include \<bitset>
