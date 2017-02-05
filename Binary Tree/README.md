@@ -78,3 +78,17 @@ http://blog.csdn.net/chlele0105/article/details/38759593
 
 ###BFS(Breadth First Search)
 
+##二叉查找树(Binary Search Tree)
+
+https://zh.wikipedia.org/wiki/二元搜尋樹
+
+1. 若任意节点的左子树不空，则左子树上所有结点的值均小于它的根结点的值；
+2. 若任意节点的右子树不空，则右子树上所有结点的值均大于它的根结点的值；
+3. 任意节点的左、右子树也分别为二叉查找树；
+4. 没有键值相等的节点。
+
+##平衡树(BST)(Self-balancing binary search tree)
+
+###AVL tree
+
+###Red-black tree

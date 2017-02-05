@@ -4,7 +4,7 @@ classify leetcode and skip smiliar questions
 
 ##questions
 
-classify questions which don't post in github.
+classify questions which don't post in repository.
 
 ###Other
 412.Fizz Buzz
@@ -54,3 +54,9 @@ classify questions which don't post in github.
 ###Bitwise Operation
 
 136.Single Number
+
+##skipping questions
+
+501.Find Mode in Binary Search Tree
+
+108.Convert Sorted Array to Binary Search Tree
