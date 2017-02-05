@@ -4,9 +4,8 @@ classify leetcode and skip smiliar questions
 
 ##questions
 
-classify questions which don't post in repository.
+questions which don't post in repository.
 
-###Other
 412.Fizz Buzz
 
 344.Reverse String
@@ -16,6 +15,8 @@ classify questions which don't post in repository.
 463.Island Perimeter
 
 448.Find All Numbers Disappeared in an Array
+
+136.Single Number
 
 492.Construct the Rectangle
 
@@ -51,9 +52,13 @@ classify questions which don't post in repository.
 
 415.Add Strings
 
-###Bitwise Operation
+231.Power of Two
 
-136.Single Number
+35.Search Insert Position
+
+83.Remove Duplicates from Sorted List
+
+
 
 ##skipping questions
 

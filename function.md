@@ -19,6 +19,10 @@ swap ( T& a, T& b );
 
 reverse(m.begin(), m.end());
 
+##find
+
+find(vector.begin(), vector.end(), n) != vector.end()
+
 #\#include \<cmath\>
 
 ##sqrt
