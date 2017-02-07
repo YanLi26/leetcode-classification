@@ -1,7 +1,5 @@
 #leetcode-classification
 
-classify leetcode and skip smiliar questions
-
 ##questions
 
 questions which don't post in repository.
