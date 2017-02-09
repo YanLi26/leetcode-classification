@@ -56,10 +56,5 @@ questions which don't post in repository.
 
 83.Remove Duplicates from Sorted List
 
+500.Keyboard Row
 
-
-##skipping questions
-
-501.Find Mode in Binary Search Tree
-
-108.Convert Sorted Array to Binary Search Tree
