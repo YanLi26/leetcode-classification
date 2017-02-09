@@ -5,33 +5,55 @@ Some basic C++ functions which used in leetcode.
 
 ##swap
 
+```C++
 swap ( T& a, T& b );
+```
 
 ###num
 
+```C++
 {a = a + b; b = a - b; a = a - b;}
+```
 
 ###bit
 
+```C++
 {a = a ^ b; b = a ^ b; a = a ^ b;}
+```
 
 ##reverse
 
+```C++
 reverse(m.begin(), m.end());
+```
 
 ##find
 
+```C++
 find(vector.begin(), vector.end(), n) != vector.end()
+```
+
+##sort
+
+```C++
+#include<functional>
+from greatest to least
+sort(nums.begin(),nums.end(), greater<int>());
+```
 
 #\#include \<cmath\>
 
 ##sqrt
 
+```C++
 sqrt(x);
+```
 
 ##power
 
+```C++
 pow(a, b); //a^b
+```
 
 #\#include \<unordered_map>
 
@@ -51,6 +73,21 @@ for(auto it = tmp.begin(); it != tmp.end(); it++)
 ```	C++
 bitset<16> foo;
 bitset<16> bar (0xfa2);
+//return the number of 1
 foo.count();
 ```
 
+#\#include \<string>
+
+##to_string
+
+```C++
+to_string (int val);
+```
+
+##substr
+
+```C++
+//substr(position,length)
+str.substr (3,5);
+```
