@@ -66,6 +66,14 @@ questions which don't post in repository.
 
 342.Power of Four
 
+345.Reverse Vowels of a String
+
+66.Plus One
+
+434.Number of Segments in a String
+
+
+
 ##review
 
 437.Path Sum III
