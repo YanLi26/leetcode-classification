@@ -59,3 +59,9 @@ questions which don't post in repository.
 500.Keyboard Row
 
 191.Number of 1 Bits
+
+263.Ugly Number
+
+##review
+
+437.Path Sum III
