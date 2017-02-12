@@ -62,6 +62,10 @@ questions which don't post in repository.
 
 263.Ugly Number
 
+21.Merge Two Sorted Lists
+
+342.Power of Four
+
 ##review
 
 437.Path Sum III
