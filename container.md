@@ -12,9 +12,13 @@ vec.front();
 vec.push_back();
 vec.pop_back;
 // erase the 6th element
-myvector.erase (myvector.begin()+5);
+vec.erase (myvector.begin()+5);
 // erase the first 3 elements:
-myvector.erase (myvector.begin(),myvector.begin()+3); 
+vec.erase (myvector.begin(),myvector.begin()+3); 
+// 7 ints with a value of 100
+vec.assign (7,100);
+//two-dimensional array, 1 means every vector<int> have one element
+vec.assign(numRows, vector<int>(1));
 ```
 
 ##Set
