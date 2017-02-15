@@ -27,6 +27,7 @@ vec.assign(numRows, vector<int>(1));
 
 ```C++
 iterator it = myset.find(20);
+myset.insert(20);
 ```
 
 ##unordered_set
