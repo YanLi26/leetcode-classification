@@ -78,6 +78,12 @@ questions which don't post in repository.
 
 172.Factorial Trailing Zeroes
 
+205.Isomorphic Strings
+
+20.Valid Parentheses
+
+
+
 ##review
 
 437.Path Sum III
