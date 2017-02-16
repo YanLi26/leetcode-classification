@@ -39,3 +39,11 @@ unordered_set<char> row3 { 'z', 'x', 'c', 'v'};
 row1.find(words[i][j])!=row1.end()
 ```
 
+##string
+
+\#include\<string>
+
+```C++
+//pos,length
+str.erase (10,8);
+```

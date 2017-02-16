@@ -76,8 +76,12 @@ questions which don't post in repository.
 
 141.Linked List Cycle
 
-
+172.Factorial Trailing Zeroes
 
 ##review
 
 437.Path Sum III
+
+##tag
+
+26, 232
