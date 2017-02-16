@@ -30,3 +30,8 @@ while (i < n) {
 //if the last number is not 0 and n - dp[n] is length of a string
 return dp[n] && (dp[n] % (n - dp[n]) == 0);
 ```
+
+##Sliding Window
+
+```C++
+```
