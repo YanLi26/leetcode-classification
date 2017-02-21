@@ -47,6 +47,13 @@ row1.find(words[i][j])!=row1.end()
 //pos,length
 str.erase (10,8);
 ```
+\#include\<cstring>
+
+```C++
+//Returns a pointer to the first occurrence of str2 in str1, or a null pointer if str2 is not part of str1.
+char * strstr (char * str1, const char * str2 );
+
+```
 
 ##queue
 
