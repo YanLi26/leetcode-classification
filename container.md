@@ -47,3 +47,12 @@ row1.find(words[i][j])!=row1.end()
 //pos,length
 str.erase (10,8);
 ```
+
+##queue
+
+\#include\<queue>
+
+```C++
+q.front();
+q.back();
+```

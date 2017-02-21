@@ -82,6 +82,15 @@ questions which don't post in repository.
 
 20.Valid Parentheses
 
+234.Palindrome Linked List
+
+219.Contains Duplicate II
+
+88.Merge Sorted Array
+
+225.Implement Stack using Queues
+
+58.Length of Last Word
 
 
 ##review
