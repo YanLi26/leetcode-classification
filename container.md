@@ -19,6 +19,8 @@ vec.erase (myvector.begin(),myvector.begin()+3);
 vec.assign (7,100);
 //two-dimensional array, 1 means every vector<int> have one element
 vec.assign(numRows, vector<int>(1));
+vec.pop_back();
+vec.insert(vec.begin, x);
 ```
 
 ##Set

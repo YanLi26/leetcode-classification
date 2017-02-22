@@ -75,6 +75,7 @@ bitset<16> foo;
 bitset<16> bar (0xfa2);
 //return the number of 1
 foo.count();
+bitset<32>(i).count()
 ```
 
 #\#include \<string>
