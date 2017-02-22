@@ -39,6 +39,12 @@ find(vector.begin(), vector.end(), n) != vector.end()
 #include<functional>
 from greatest to least
 sort(nums.begin(),nums.end(), greater<int>());
+sort (RandomAccessIterator first, RandomAccessIterator last, Compare comp);
+//use function as comp
+//406.Queue Reconstruction by Height
+sort (myvector.begin()+4, myvector.end(), myfunction);
+//use object as comp
+sort (myvector.begin()+4, myvector.end(), myobject);
 ```
 
 #\#include \<cmath\>
