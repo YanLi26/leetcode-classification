@@ -35,3 +35,8 @@ return dp[n] && (dp[n] % (n - dp[n]) == 0);
 
 ```C++
 ```
+
+##Sieve of Eratosthenes
+
+```C++
+```

@@ -92,3 +92,13 @@ to_string (int val);
 str.substr (3,5);
 ```
 
+#\#include \<cctype>
+
+##tolower
+
+```C++
+tolower(c);
+//Check if character is alphanumeric
+isalnum (c);
+```
+
