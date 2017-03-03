@@ -65,3 +65,16 @@ char * strstr (char * str1, const char * str2 );
 q.front();
 q.back();
 ```
+
+##priority_queue
+
+\#include\<queue>
+
+```C++
+//Its first element is always the greatest of the elements it contains.
+empty();
+size();
+front();
+push_back();
+pop_back();
+```
